@@ -2,7 +2,6 @@
 **.env
 
 # generated files
-**_templ.go
 **/public/minified/**
 **/public/minified/**
 
